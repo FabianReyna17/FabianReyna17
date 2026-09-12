@@ -17,7 +17,7 @@ Soy estudiante de ingeniería con formación amplia: bases de datos, sistemas em
 
 ---
 
-### 🛠️ Tecnologías y herramientas
+### Experiencia
 
 **Lenguajes:**
 
@@ -50,17 +50,17 @@ Soy estudiante de ingeniería con formación amplia: bases de datos, sistemas em
 
 ---
 
-### 📌 Proyectos destacados
+### Mis mejores proyectos
 
-- **[Nombre del proyecto 1](enlace-al-repo)** — breve descripción de qué hace y qué tecnologías usaste.
-- **[Nombre del proyecto 2](enlace-al-repo)** — breve descripción de qué hace y qué tecnologías usaste.
-- **[Nombre del proyecto 3](enlace-al-repo)** — breve descripción de qué hace y qué tecnologías usaste.
+- **[P1](hola)** — 
+- **[P2](hola)** — 
+- **[P3](hola)** — 
 
 
 ---
 
 
-### 🌐 Encuéntrame en
+### Contacto
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/fabián-reyna-1431aa3a9)
 [![Portafolio](https://img.shields.io/badge/Portafolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://tu-portafolio.vercel.app)
