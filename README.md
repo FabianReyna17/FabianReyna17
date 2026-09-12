@@ -6,14 +6,14 @@
 
 ---
 
-### 🚀 Sobre mí
+### Sobre mí 
 
 Soy estudiante de ingeniería con formación amplia: bases de datos, sistemas embebidos, desarrollo móvil, ingeniería de software y matemáticas aplicadas. Me gusta entender a fondo cómo funcionan las cosas antes de usarlas — desde el diseño de un circuito hasta la arquitectura de una app.
 
 - 🔭 Actualmente trabajando en proyectos de bases de datos, sistemas embebidos y desarrollo móvil
 - 🌱 Aprendiendo constantemente sobre nuevas herramientas y buenas prácticas de desarrollo
 - 💬 Pregúntame sobre Android/Kotlin, sistemas embebidos en C, o bases de datos
-- 📫 Contáctame: [tu-correo@ejemplo.com](mailto:tu-correo@ejemplo.com)
+- 📫 Contáctame: [marfarey946@gmail.com](mailto:marfarey946@gmail.com)
 
 ---
 
@@ -27,6 +27,7 @@ Soy estudiante de ingeniería con formación amplia: bases de datos, sistemas em
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Assembly](https://img.shields.io/badge/Assembly-608C4A?style=for-the-badge&logo=&logoColor=white)
 
 **Frameworks y librerías:**
 
@@ -46,7 +47,6 @@ Soy estudiante de ingeniería con formación amplia: bases de datos, sistemas em
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 
 ---
 
@@ -56,20 +56,12 @@ Soy estudiante de ingeniería con formación amplia: bases de datos, sistemas em
 - **[Nombre del proyecto 2](enlace-al-repo)** — breve descripción de qué hace y qué tecnologías usaste.
 - **[Nombre del proyecto 3](enlace-al-repo)** — breve descripción de qué hace y qué tecnologías usaste.
 
-> 💡 Tip: elige 3 proyectos que muestren variedad (ej. uno móvil, uno web, uno de bases de datos/sistemas) — así se nota que manejas distintas áreas.
 
 ---
 
-### 📊 Estadísticas de GitHub
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TU-USUARIO&show_icons=true&theme=default" alt="Estadísticas de GitHub" />
-</p>
-
----
 
 ### 🌐 Encuéntrame en
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/tu-usuario)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/fabián-reyna-1431aa3a9)
 [![Portafolio](https://img.shields.io/badge/Portafolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://tu-portafolio.vercel.app)
-[![CV](https://img.shields.io/badge/CV-4285F4?style=for-the-badge&logo=googledrive&logoColor=white)](enlace-a-tu-cv)
+[![CV](https://img.shields.io/badge/CV-4285F4?style=for-the-badge&logo=googledrive&logoColor=white)](hola)
